@@ -12,11 +12,11 @@
 
 `HASIL LIVE CREATE ID`
 
-https://raw.githubusercontent.com/yourinlive/CreatMAX/refs/heads/main/Screenshot_20250703-141710.jpg
+![Screenshot_20250703-141710.jpg](https://raw.githubusercontent.com/yourinlive/CreatMAX/refs/heads/main/Screenshot_20250703-141710.jpg)
 
 `HASIL CHECKPOINT CREATE ID`
-https://raw.githubusercontent.com/yourinlive/CreatMAX/refs/heads/main/Screenshot_20250703-141730.jpg
 
+![Screenshot_20250703-141730.jpg](https://raw.githubusercontent.com/yourinlive/CreatMAX/refs/heads/main/Screenshot_20250703-141730.jpg)
 `Install`
 ```
 git clone https://github.com/yourinlive/CreatMAX.git
