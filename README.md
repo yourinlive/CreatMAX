@@ -18,8 +18,8 @@ https://raw.githubusercontent.com/yourinlive/CreatMAX/refs/heads/main/Screenshot
 
 `Install`
 ```
-git clone https://github.com/yourinlive/MAXcreat
-cd MAXcreat
+git clone https://github.com/yourinlive/CreatMAX.git
+cd CreatMax
 python3 creat.py
 ```
 
