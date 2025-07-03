@@ -6,7 +6,7 @@
 `AUTO VERIFIKASI 2 LANGKAH`
 `FREE FOR YOU - NO LISENSE`
 
-`TAMPILAN LOGIN MENU
+`TAMPILAN LOGIN MENU`
 https://raw.githubusercontent.com/yourinlive/CreatMAX/refs/heads/main/Screenshot_20250703-141633.jpg
 
 `HASIL LIVE CREATE ID`
