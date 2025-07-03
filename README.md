@@ -23,4 +23,3 @@ cd MAXcreat
 python3 creat.py
 ```
 
-**Mr.Zok3r - K4long666 - A-KENZI**
